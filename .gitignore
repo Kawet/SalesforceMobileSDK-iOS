@@ -30,9 +30,5 @@ hybrid/SampleApps/ContactExplorer/ContactExplorer/dependencies/
 hybrid/dependencies/PhoneGap.framework/
 hybrid/dependencies/SalesforceOAuth/
 hybrid/dependencies/SBJson/
-native/dependencies/RestKit/
-native/dependencies/SalesforceOAuth/
-native/dependencies/SalesforceSDK/
-native/dependencies/SBJson/
 hybrid/SalesforceHybridSDK/build/
 hybrid/dependencies/
